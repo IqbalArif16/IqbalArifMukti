@@ -20,10 +20,3 @@
 I got all my 3D model assets from here:
 - https://sketchfab.com/3d-models/bmw-m3-e92-stance-c35a14d811b042d792a6da69381f7f80
 - https://sketchfab.com/3d-models/american-muscle-71-low-poly-model-955edc733c6d44fabc0ad7c246a15896
-- https://sketchfab.com/3d-models/tifa-field-model-08e05d92ad4a4e80a8b5f0100e833f03
-- https://sketchfab.com/3d-models/pc-computer-final-fantasy-vii-cloud-strife-ff684ef9b9364afcbe534552bc2b1da2
-
-## Link
-
-This is the link to go to the application:
-https://valentinov8060.github.io/final-fantasy-vii-AR/dashboard.html
